@@ -1,0 +1,6 @@
+# IDE settings
+.idea
+.vscode
+
+# CMake buld dir
+build
